@@ -1,4 +1,4 @@
-# mrkustik
+# NullZ1ro
 
 ### Hi there 👋      
 &nbsp;&nbsp;&nbsp;&nbsp;My name is Gena and now I'm a second year student of Applied Maths and Computer Sciences of Moscow Institute of Physics and Technology, MIPT. I love sailing, football and coding and search the team for my startup. I am a candidate for Master of Sports in sailing.
