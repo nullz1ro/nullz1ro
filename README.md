@@ -1,16 +1,14 @@
 # NullZ1ro
 
 ### Hi there 👋      
-&nbsp;&nbsp;&nbsp;&nbsp;My name is Gena and now I'm a second year student of Applied Maths and Computer Sciences of Moscow Institute of Physics and Technology, MIPT. I love sailing, football and coding and search the team for my startup. I am a candidate for Master of Sports in sailing.
+&nbsp;&nbsp;&nbsp;&nbsp;My name is Gena and now I'm a fourth year student of Applied Maths and Computer Sciences of Moscow Institute of Physics and Technology, MIPT. I love sailing, football and coding, search the team for my startup. I am a candidate for Master of Sports in sailing.
 
 ### ⚡ Skills
-* Go, C++ / С, Python
-* Docker
-* Kafka
-* SQL, Postgres, Redis
+* Go, C++, Rust, Python
+* SQL, Postgres, Redis, Kafka, RabbitMQ
 ### 🍀 Education
 * AMCS MIPT(2022-2026)
-
+* YSDA(Data Science track)(2025-2027)
 ### 🚀 Work experience
 * Yandex backend developer at Run-time of Search kernal Jun 2023-Oct 2023 (C++|Go)
     * Create Highload System to collect info (metrics) about requests
@@ -19,6 +17,7 @@
 * VK ML-infrastructure (Jul 2024 - present) (GO,Python)
     * Create service for collecting metrics
     * Create infrastructure for testing ML-models
+    * Create RecSys model for two topics videous at VK video
 ### 🌱 Interests:
 - ML (strong AI in industry)
 - Software development
