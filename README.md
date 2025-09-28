@@ -5,6 +5,7 @@
 
 ### ⚡ Skills
 * Go, C++, Rust, Python
+* NLP, RL, DL, ClassicML
 * SQL, Postgres, Redis, Kafka, RabbitMQ
 ### 🍀 Education
 * AMCS MIPT(2022-2026)
